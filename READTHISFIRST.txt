@@ -1,12 +1,17 @@
 Hello!
-This drive folder consists of a total of 7 files including this one. The purpose of this txt file is to convey what each file contains.
+This drive folder consists of a total of 8 files including this one. The purpose of this txt file is to convey what each file contains.
 There are two files named TrialErrors_Task1.ipynb and TrialErrors_Task2.ipynb. These contain some snippets of trial errors I did in tasks 1 and 2 respectively but i scrapped them out later.
 These files are not very well structured as they are just rough work.
 
 Then there are two files README_Task1.md and README_Task2.md which contain the structure(index) of the final notebooks.
 
+There is one more file Bonus_Task.ipynb which contains the submission for the Bonus Task given.
+
 And finally there are ML_Task1_SarveshJoshi.ipynb and ML_Task2_SarveshJoshi.ipynb which are well commented and structured final codes of the respective tasks.
 I have not prepared any "report" , instead I have commented my thought processes in the final notebooks itself. More raw work is present in the notebooks - TrialErrors_Task1.ipynb and TrialErrors_Task2.ipynb.
+
+
+
 
 Regards,
 Sarvesh
